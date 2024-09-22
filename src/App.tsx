@@ -26,9 +26,9 @@ const App: React.FC = () => {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/arithmetic" element={<ArithmeticCalculator />} />
-            <Route path="/goemetric" element={<GeometricCalculator />} />
+            <Route path="/geometric" element={<GeometricCalculator />} />
             <Route path="/calculus" element={<CalculusCalculator />} />
-            <Route path="/equation" element={<EquationsCalculator />} />
+            <Route path="/equations" element={<EquationsCalculator />} />
             {/* Add more routes for other calculator modes here */}
           </Routes>
         </div>
