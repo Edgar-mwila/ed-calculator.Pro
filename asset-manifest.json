@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Ed-Calculator.Pro/static/css/main.ddb9685f.css",
-    "main.js": "/Ed-Calculator.Pro/static/js/main.d367d2e9.js",
-    "index.html": "/Ed-Calculator.Pro/index.html",
-    "main.ddb9685f.css.map": "/Ed-Calculator.Pro/static/css/main.ddb9685f.css.map",
-    "main.d367d2e9.js.map": "/Ed-Calculator.Pro/static/js/main.d367d2e9.js.map"
+    "main.css": "/ed-calculator.Pro/static/css/main.ddb9685f.css",
+    "main.js": "/ed-calculator.Pro/static/js/main.d367d2e9.js",
+    "index.html": "/ed-calculator.Pro/index.html",
+    "main.ddb9685f.css.map": "/ed-calculator.Pro/static/css/main.ddb9685f.css.map",
+    "main.d367d2e9.js.map": "/ed-calculator.Pro/static/js/main.d367d2e9.js.map"
   },
   "entrypoints": [
     "static/css/main.ddb9685f.css",
