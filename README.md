@@ -1,10 +1,9 @@
 Comprehensive Calculator App
 A feature-rich calculator application built using React.js, TypeScript, Tailwind CSS, and Webpack.
 Table of Contents
-
+located at: https://Edgar-mwila.github.io/Ed-Calculator.Pro
 Introduction
 Features
-Installation
 Usage
 
 Home Screen
