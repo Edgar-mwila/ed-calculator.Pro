@@ -1,6 +1,8 @@
 {
   "name": "calculator-pro",
   "version": "0.1.0",
+  "author": "Edgar Mwila",
+  "displayName": "Ed-Calculator.Pro",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
